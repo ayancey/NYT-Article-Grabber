@@ -9,6 +9,8 @@ import nyt
 print(nyt.get_article_text("http://www.nytimes.com/2015/05/24/world/middleeast/with-victories-isis-dispels-hope-of-a-swift-decline.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news").encode('ascii', 'ignore'))
 ```
 
+![](http://i.imgur.com/Mwz5AhE.png)
+
 # Requirements
 * Python 2.7+
 * [requests](https://github.com/kennethreitz/requests)
